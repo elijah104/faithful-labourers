@@ -1,0 +1,80 @@
+# Faithful Labourers
+> **Rooted in God. Serving Communities. Transforming Lives.**
+Faithful Labourers is a Christian organization focused on spreading the Gospel, supporting communities, establishing churches, and helping people in need.
+## About Us
+
+We are committed to:
+
+* Spreading the Gospel of Jesus Christ
+* Establishing and supporting Pentecostal churches
+* Helping children, families, and elderly people
+* Supporting communities in need
+* Sharing God's love through practical service
+
+## Our Churches
+
+Faithful Labourers works with churches and fellowships in different communities:
+
+* **Kawempe Pentecostal Church** — Kampala
+* **Kisimu Pentecostal Church** — Wakiso
+* **Kikoza Pentecostal Church** — Luwero
+
+
+The website allows visitors to:
+
+* Learn about Faithful Labourers
+* Learn about our churches
+* View ministry activities and photos
+* Learn about our outreach programs
+* Contact us
+* Find our contact information
+
+## Technologies
+
+The website was created using:
+
+* HTML
+* CSS
+* JavaScript
+
+##Responsive Design
+
+The website is designed to work on:
+
+* Computers
+* Mobile phones
+*Tablets
+
+**Email:** [labourerfaithful@gmail.com](mailto:labourerfaithful@gmail.com)
+**Phone:** +256 702 200 441
+
+Rooted in God. Serving Communities. Transforming Lives.
+Faithful Labourers Website Project
+
+Faithful-Labourers/
+│
+├── index.html
+├── style.css
+├── script.js
+├── faithful-logo.png
+│
+├── 1.jpeg
+├── 3.jpeg
+├── 4.jpeg
+├── 5.jpeg
+├── 11.jpg
+├── 12.jpg
+├── 14.jpg
+├── 22.jpg
+├── 26.jpg
+├── 27.jpeg
+├── 28.jpeg
+├── 31.jpeg
+├── 33.jpeg
+├── 34.jpeg
+├── 6.png
+├── a.mp4
+│
+└── images/
+    ├── church2.jpg
+    └── church3.jpg
